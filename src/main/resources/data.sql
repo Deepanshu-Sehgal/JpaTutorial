@@ -1,0 +1,1 @@
+insert into test.product_table (price,quantity,sku,title_x) values(12.4 ,4,'parle734','parle biscuit'),(14.4,1,'pepsi123','Pepsi'),(16.4,3,'pepsi156','Mazza');
